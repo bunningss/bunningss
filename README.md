@@ -32,7 +32,6 @@ A computer enthusiast and motivated individual with full-stack web development s
 <br>
 <strong>Cumilla Shikkha Board Govt. Model College</strong>
 <p>High School (2012 - 2014)</p>
-<br>
 </details>
 
 <details>
