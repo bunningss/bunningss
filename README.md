@@ -46,11 +46,11 @@ A computer enthusiast and motivated individual with full-stack web development s
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
+- [Bunningss created a branch main in Bunningss/theBlog](https://github.com/Bunningss/theBlog/compare/main)
+- [Bunningss created a repository Bunningss/theBlog](https://github.com/Bunningss/theBlog//)
 - [Bunningss pushed to master in Bunningss/bunningss](https://github.com/Bunningss/bunningss/compare/a36ab64c79...338fb865ad)
 - [Bunningss deleted branch main at Bunningss/bunningss](https://github.com/)
 - [Bunningss created a branch master in Bunningss/bunningss](https://github.com/Bunningss/bunningss/compare/master)
-- [Bunningss created a branch main in Bunningss/bunningss](https://github.com/Bunningss/bunningss/compare/main)
-- [Bunningss created a repository Bunningss/bunningss](https://github.com/Bunningss/bunningss//)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
