@@ -46,11 +46,11 @@ A computer enthusiast and motivated individual with full-stack web development s
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
-- [Bunningss created a branch main in Bunningss/theBlog](https://github.com/Bunningss/theBlog/compare/main)
-- [Bunningss created a repository Bunningss/theBlog](https://github.com/Bunningss/theBlog//)
-- [Bunningss pushed to master in Bunningss/bunningss](https://github.com/Bunningss/bunningss/compare/a36ab64c79...338fb865ad)
-- [Bunningss deleted branch main at Bunningss/bunningss](https://github.com/)
-- [Bunningss created a branch master in Bunningss/bunningss](https://github.com/Bunningss/bunningss/compare/master)
+- [Bunningss pushed to master in Bunningss/py-apps](https://github.com/Bunningss/py-apps/compare/59b9d6c5af...55c253cd4c)
+- [Bunningss created a branch master in Bunningss/py-apps](https://github.com/Bunningss/py-apps/compare/master)
+- [Bunningss created a repository Bunningss/py-apps](https://github.com/Bunningss/py-apps//)
+- [Bunningss pushed to master in Bunningss/py-apps](https://github.com/Bunningss/py-apps/compare/126372be8d...7da162541f)
+- [Bunningss created a branch master in Bunningss/py-apps](https://github.com/Bunningss/py-apps/compare/master)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
