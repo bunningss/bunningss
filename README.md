@@ -46,11 +46,11 @@ A computer enthusiast and motivated individual with full-stack web development s
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
-- [Bunningss created a branch master in Bunningss/blog-api](https://github.com/Bunningss/blog-api/compare/master)
-- [Bunningss created a repository Bunningss/blog-api](https://github.com/Bunningss/blog-api//)
-- [Bunningss created a branch master in Bunningss/blog-api](https://github.com/Bunningss/blog-api/compare/master)
-- [Bunningss created a repository Bunningss/blog-api](https://github.com/Bunningss/blog-api//)
-- [Bunningss pushed to master in Bunningss/--react-blog](https://github.com/Bunningss/--react-blog/compare/a23c047b11...321004be55)
+- [Bunningss pushed to master in Bunningss/--react-blog](https://github.com/Bunningss/--react-blog/compare/d6efaaab9e...aafc607dfb)
+- [Bunningss pushed to master in Bunningss/--react-blog](https://github.com/Bunningss/--react-blog/compare/457b06ed7d...d6efaaab9e)
+- [Bunningss pushed to master in Bunningss/--react-blog](https://github.com/Bunningss/--react-blog/compare/702c11a6c6...457b06ed7d)
+- [Bunningss pushed to master in Bunningss/blog-api](https://github.com/Bunningss/blog-api/compare/23bb23634f...41e99dc882)
+- [Bunningss pushed to master in Bunningss/--react-blog](https://github.com/Bunningss/--react-blog/compare/321004be55...702c11a6c6)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
