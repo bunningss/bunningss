@@ -46,11 +46,11 @@ A computer enthusiast and motivated individual with full-stack web development s
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
+- [Bunningss pushed to master in Bunningss/--react-blog](https://github.com/Bunningss/--react-blog/compare/cfc0bb9eff...439fb7dcdb)
+- [Bunningss pushed to master in Bunningss/blog-api](https://github.com/Bunningss/blog-api/compare/8adf4c0c92...bf9baabf78)
+- [Bunningss pushed to master in Bunningss/--react-blog](https://github.com/Bunningss/--react-blog/compare/bf16a31f4f...cfc0bb9eff)
 - [Bunningss pushed to master in Bunningss/--react-blog](https://github.com/Bunningss/--react-blog/compare/e40a5e00e8...bf16a31f4f)
 - [Bunningss pushed to master in Bunningss/blog-api](https://github.com/Bunningss/blog-api/compare/df8ede727e...8adf4c0c92)
-- [Bunningss pushed to master in Bunningss/blog-api](https://github.com/Bunningss/blog-api/compare/e65e412f12...df8ede727e)
-- [Bunningss pushed to master in Bunningss/--react-blog](https://github.com/Bunningss/--react-blog/compare/46671ded63...e40a5e00e8)
-- [Bunningss pushed to master in Bunningss/--react-blog](https://github.com/Bunningss/--react-blog/compare/4ec8b23867...46671ded63)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
