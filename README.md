@@ -46,11 +46,11 @@ A computer enthusiast and motivated individual with full-stack web development s
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
+- [Bunningss created a branch master in Bunningss/react_admin](https://github.com/Bunningss/react_admin/compare/master)
+- [Bunningss created a repository Bunningss/react_admin](https://github.com/Bunningss/react_admin//)
 - [Bunningss created a branch master in Bunningss/tatamax](https://github.com/Bunningss/tatamax/compare/master)
 - [Bunningss created a repository Bunningss/tatamax](https://github.com/Bunningss/tatamax//)
 - [Bunningss pushed to master in Bunningss/--react-blog](https://github.com/Bunningss/--react-blog/compare/cfc0bb9eff...439fb7dcdb)
-- [Bunningss pushed to master in Bunningss/blog-api](https://github.com/Bunningss/blog-api/compare/8adf4c0c92...bf9baabf78)
-- [Bunningss pushed to master in Bunningss/--react-blog](https://github.com/Bunningss/--react-blog/compare/bf16a31f4f...cfc0bb9eff)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
