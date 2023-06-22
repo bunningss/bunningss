@@ -46,11 +46,11 @@ A computer enthusiast and motivated individual with full-stack web development s
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
-- [Bunningss created a repository Bunningss/go-onbasket](https://github.com/Bunningss/go-onbasket//)
+- [Bunningss pushed to master in Bunningss/goonbasket.com](https://github.com/Bunningss/goonbasket.com/compare/89e8f368bf...e940678a9a)
+- [Bunningss created a branch master in Bunningss/goonbasket.com](https://github.com/Bunningss/goonbasket.com/compare/master)
 - [Bunningss created a branch master in Bunningss/react_admin](https://github.com/Bunningss/react_admin/compare/master)
 - [Bunningss created a repository Bunningss/react_admin](https://github.com/Bunningss/react_admin//)
 - [Bunningss created a branch master in Bunningss/tatamax](https://github.com/Bunningss/tatamax/compare/master)
-- [Bunningss created a repository Bunningss/tatamax](https://github.com/Bunningss/tatamax//)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
