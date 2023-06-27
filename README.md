@@ -46,11 +46,11 @@ A computer enthusiast and motivated individual with full-stack web development s
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
-- [Bunningss pushed to master in Bunningss/goonbasket.com](https://github.com/Bunningss/goonbasket.com/compare/89e8f368bf...e940678a9a)
-- [Bunningss created a branch master in Bunningss/goonbasket.com](https://github.com/Bunningss/goonbasket.com/compare/master)
-- [Bunningss created a branch master in Bunningss/react_admin](https://github.com/Bunningss/react_admin/compare/master)
-- [Bunningss created a repository Bunningss/react_admin](https://github.com/Bunningss/react_admin//)
-- [Bunningss created a branch master in Bunningss/tatamax](https://github.com/Bunningss/tatamax/compare/master)
+- [Bunningss pushed to master in Bunningss/tatamax-digiocean](https://github.com/Bunningss/tatamax-digiocean/compare/ee3cf1a1b8...686f7ebf45)
+- [Bunningss pushed to master in Bunningss/tatamax-digiocean](https://github.com/Bunningss/tatamax-digiocean/compare/4aacb6faea...ee3cf1a1b8)
+- [Bunningss pushed to master in Bunningss/tatamax-digiocean](https://github.com/Bunningss/tatamax-digiocean/compare/6a99e5e7d8...4aacb6faea)
+- [Bunningss created a branch master in Bunningss/tatamax-digiocean](https://github.com/Bunningss/tatamax-digiocean/compare/master)
+- [Bunningss created a repository Bunningss/tatamax-digiocean](https://github.com/Bunningss/tatamax-digiocean//)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
