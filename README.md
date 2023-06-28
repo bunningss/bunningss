@@ -46,11 +46,11 @@ A computer enthusiast and motivated individual with full-stack web development s
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
-- [Bunningss pushed to master in Bunningss/tatamax-digiocean](https://github.com/Bunningss/tatamax-digiocean/compare/ee3cf1a1b8...686f7ebf45)
-- [Bunningss pushed to master in Bunningss/tatamax-digiocean](https://github.com/Bunningss/tatamax-digiocean/compare/4aacb6faea...ee3cf1a1b8)
-- [Bunningss pushed to master in Bunningss/tatamax-digiocean](https://github.com/Bunningss/tatamax-digiocean/compare/6a99e5e7d8...4aacb6faea)
-- [Bunningss created a branch master in Bunningss/tatamax-digiocean](https://github.com/Bunningss/tatamax-digiocean/compare/master)
-- [Bunningss created a repository Bunningss/tatamax-digiocean](https://github.com/Bunningss/tatamax-digiocean//)
+- [Bunningss created a branch master in Bunningss/duped-umbrella](https://github.com/Bunningss/duped-umbrella/compare/master)
+- [Bunningss created a repository Bunningss/duped-umbrella](https://github.com/Bunningss/duped-umbrella//)
+- [Bunningss created a branch master in Bunningss/duped-umbrella](https://github.com/Bunningss/duped-umbrella/compare/master)
+- [Bunningss created a repository Bunningss/duped-umbrella](https://github.com/Bunningss/duped-umbrella//)
+- [Bunningss created a branch master in Bunningss/automatic-carnival](https://github.com/Bunningss/automatic-carnival/compare/master)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
