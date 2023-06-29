@@ -46,11 +46,11 @@ A computer enthusiast and motivated individual with full-stack web development s
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
+- [Bunningss forked Bunningss/starter-nestjs from cyclic-software/starter-nestjs](https://github.com/Bunningss/starter-nestjs)
 - [Bunningss created a branch master in Bunningss/duped-umbrella](https://github.com/Bunningss/duped-umbrella/compare/master)
 - [Bunningss created a repository Bunningss/duped-umbrella](https://github.com/Bunningss/duped-umbrella//)
 - [Bunningss created a branch master in Bunningss/duped-umbrella](https://github.com/Bunningss/duped-umbrella/compare/master)
 - [Bunningss created a repository Bunningss/duped-umbrella](https://github.com/Bunningss/duped-umbrella//)
-- [Bunningss created a branch master in Bunningss/automatic-carnival](https://github.com/Bunningss/automatic-carnival/compare/master)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
