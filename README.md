@@ -46,11 +46,11 @@ A computer enthusiast and motivated individual with full-stack web development s
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
-- [Bunningss created a branch localtest in Bunningss/carlyle](https://github.com/Bunningss/carlyle/compare/localtest)
-- [Bunningss created a branch master in Bunningss/carlyle](https://github.com/Bunningss/carlyle/compare/master)
-- [Bunningss created a repository Bunningss/carlyle](https://github.com/Bunningss/carlyle//)
-- [Bunningss pushed to main in Bunningss/admin](https://github.com/Bunningss/admin/compare/142e372366...5a27f1c607)
-- [Bunningss created a branch main in Bunningss/admin](https://github.com/Bunningss/admin/compare/main)
+- [Bunningss pushed to master in Bunningss/carlyle](https://github.com/Bunningss/carlyle/compare/6ed6928c75...48ac00d3cf)
+- [Bunningss merged a pull request in Bunningss/carlyle](https://github.com/Bunningss/carlyle/pull/1)
+- [Bunningss pushed to localtest in Bunningss/carlyle](https://github.com/Bunningss/carlyle/compare/4bde6898eb...cbb625f557)
+- [Bunningss opened a pull request in Bunningss/carlyle](https://github.com/Bunningss/carlyle/pull/1)
+- [Bunningss pushed to localtest in Bunningss/carlyle](https://github.com/Bunningss/carlyle/compare/5d59c34633...4bde6898eb)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
