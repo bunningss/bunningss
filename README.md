@@ -46,11 +46,11 @@ A computer enthusiast and motivated individual with full-stack web development s
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
-- [Bunningss pushed to local in Bunningss/doubleOthree](https://github.com/Bunningss/doubleOthree/compare/7b50239a7d...a3eeb780da)
-- [Bunningss pushed to master in Bunningss/doubleOthree](https://github.com/Bunningss/doubleOthree/compare/3b0bddee0c...a3eeb780da)
-- [Bunningss merged a pull request in Bunningss/doubleOthree](https://github.com/Bunningss/doubleOthree/pull/7)
-- [Bunningss opened a pull request in Bunningss/doubleOthree](https://github.com/Bunningss/doubleOthree/pull/7)
-- [Bunningss pushed to local in Bunningss/doubleOthree](https://github.com/Bunningss/doubleOthree/compare/1f12758c0e...7b50239a7d)
+- [Bunningss pushed to master in Bunningss/doubleOthree](https://github.com/Bunningss/doubleOthree/compare/61a9862604...3ce1c45876)
+- [Bunningss merged a pull request in Bunningss/doubleOthree](https://github.com/Bunningss/doubleOthree/pull/9)
+- [Bunningss opened a pull request in Bunningss/doubleOthree](https://github.com/Bunningss/doubleOthree/pull/9)
+- [Bunningss pushed to local in Bunningss/doubleOthree](https://github.com/Bunningss/doubleOthree/compare/3c863d3345...379425956a)
+- [Bunningss pushed to master in Bunningss/doubleOthree](https://github.com/Bunningss/doubleOthree/compare/a3eeb780da...61a9862604)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
