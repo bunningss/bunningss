@@ -46,11 +46,11 @@ A computer enthusiast and motivated individual with full-stack web development s
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
+- [Bunningss created a branch master in Bunningss/headman](https://github.com/Bunningss/headman/compare/master)
+- [Bunningss created a repository Bunningss/headman](https://github.com/Bunningss/headman//)
 - [Bunningss pushed to local in Bunningss/doubleOthree](https://github.com/Bunningss/doubleOthree/compare/f693417789...ea62cf4a45)
 - [Bunningss pushed to local in Bunningss/doubleOthree](https://github.com/Bunningss/doubleOthree/compare/93b01e651e...f693417789)
 - [Bunningss pushed to master in Bunningss/doubleOthree](https://github.com/Bunningss/doubleOthree/compare/162adc204f...f693417789)
-- [Bunningss merged a pull request in Bunningss/doubleOthree](https://github.com/Bunningss/doubleOthree/pull/13)
-- [Bunningss opened a pull request in Bunningss/doubleOthree](https://github.com/Bunningss/doubleOthree/pull/13)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
