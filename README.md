@@ -46,11 +46,11 @@ A computer enthusiast and motivated individual with full-stack web development s
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
+- [Bunningss created a branch main in Bunningss/headman](https://github.com/Bunningss/headman/compare/main)
+- [Bunningss created a repository Bunningss/headman](https://github.com/Bunningss/headman//)
 - [Bunningss created a branch local in Bunningss/office_manager](https://github.com/Bunningss/office_manager/compare/local)
 - [Bunningss created a repository Bunningss/office_manager](https://github.com/Bunningss/office_manager//)
 - [Bunningss created a branch master in Bunningss/headman](https://github.com/Bunningss/headman/compare/master)
-- [Bunningss created a repository Bunningss/headman](https://github.com/Bunningss/headman//)
-- [Bunningss pushed to local in Bunningss/doubleOthree](https://github.com/Bunningss/doubleOthree/compare/f693417789...ea62cf4a45)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
