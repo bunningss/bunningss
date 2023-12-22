@@ -46,11 +46,11 @@ A computer enthusiast and motivated individual with full-stack web development s
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
-- [Bunningss pushed to master in Bunningss/languageSchool](https://github.com/Bunningss/languageSchool/compare/d941d59832...ec4b0e16dc)
-- [Bunningss pushed to local in Bunningss/languageSchool](https://github.com/Bunningss/languageSchool/compare/886e979445...ec4b0e16dc)
-- [Bunningss merged a pull request in Bunningss/languageSchool](https://github.com/Bunningss/languageSchool/pull/2)
-- [Bunningss opened a pull request in Bunningss/languageSchool](https://github.com/Bunningss/languageSchool/pull/2)
-- [Bunningss pushed to master in Bunningss/languageSchool](https://github.com/Bunningss/languageSchool/compare/80811d03e5...d941d59832)
+- [Bunningss pushed to local in Bunningss/languageSchool](https://github.com/Bunningss/languageSchool/compare/371d81b583...1564b58f20)
+- [Bunningss pushed to master in Bunningss/languageSchool](https://github.com/Bunningss/languageSchool/compare/2122792a41...1564b58f20)
+- [Bunningss merged a pull request in Bunningss/languageSchool](https://github.com/Bunningss/languageSchool/pull/4)
+- [Bunningss opened a pull request in Bunningss/languageSchool](https://github.com/Bunningss/languageSchool/pull/4)
+- [Bunningss pushed to local in Bunningss/languageSchool](https://github.com/Bunningss/languageSchool/compare/cb4c5c75d7...371d81b583)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
