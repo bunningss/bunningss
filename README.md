@@ -46,11 +46,11 @@ A computer enthusiast and motivated individual with full-stack web development s
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
+- [Bunningss created a branch master in Bunningss/postme-app---ts](https://github.com/Bunningss/postme-app---ts/compare/master)
+- [Bunningss created a repository Bunningss/postme-app---ts](https://github.com/Bunningss/postme-app---ts//)
 - [Bunningss pushed to master in Bunningss/dad-jokes--ts-practice](https://github.com/Bunningss/dad-jokes--ts-practice/compare/085f420572...6495e106db)
 - [Bunningss created a branch master in Bunningss/dad-jokes--ts-practice](https://github.com/Bunningss/dad-jokes--ts-practice/compare/master)
 - [Bunningss created a repository Bunningss/dad-jokes--ts-practice](https://github.com/Bunningss/dad-jokes--ts-practice//)
-- [Bunningss pushed to experiment in Bunningss/languageSchool](https://github.com/Bunningss/languageSchool/compare/c068b5aab2...66d8bd2687)
-- [Bunningss pushed to master in Bunningss/languageSchool](https://github.com/Bunningss/languageSchool/compare/233bdd081a...66d8bd2687)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
