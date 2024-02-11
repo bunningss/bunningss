@@ -46,11 +46,11 @@ A computer enthusiast and motivated individual with full-stack web development s
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
+- [Bunningss made Bunningss/portfolio_ public](https://github.com/Bunningss/portfolio_)
 - [Bunningss pushed to master in Bunningss/postme-app---ts](https://github.com/Bunningss/postme-app---ts/compare/971665637c...188d1224eb)
 - [Bunningss pushed to master in Bunningss/postme-app---ts](https://github.com/Bunningss/postme-app---ts/compare/d8a8cae58f...971665637c)
 - [Bunningss created a branch master in Bunningss/postme-app---ts](https://github.com/Bunningss/postme-app---ts/compare/master)
 - [Bunningss created a repository Bunningss/postme-app---ts](https://github.com/Bunningss/postme-app---ts//)
-- [Bunningss pushed to master in Bunningss/dad-jokes--ts-practice](https://github.com/Bunningss/dad-jokes--ts-practice/compare/085f420572...6495e106db)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
