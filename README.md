@@ -46,11 +46,11 @@ A computer enthusiast and motivated individual with full-stack web development s
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
-- [Bunningss made Bunningss/portfolio_ public](https://github.com/Bunningss/portfolio_)
-- [Bunningss pushed to master in Bunningss/postme-app---ts](https://github.com/Bunningss/postme-app---ts/compare/971665637c...188d1224eb)
-- [Bunningss pushed to master in Bunningss/postme-app---ts](https://github.com/Bunningss/postme-app---ts/compare/d8a8cae58f...971665637c)
-- [Bunningss created a branch master in Bunningss/postme-app---ts](https://github.com/Bunningss/postme-app---ts/compare/master)
-- [Bunningss created a repository Bunningss/postme-app---ts](https://github.com/Bunningss/postme-app---ts//)
+- [Bunningss pushed to master in Bunningss/portfolio_](https://github.com/Bunningss/portfolio_/compare/de75b01f71...bca8d9aeaa)
+- [Bunningss pushed to master in Bunningss/portfolio_](https://github.com/Bunningss/portfolio_/compare/cd79e28dec...de75b01f71)
+- [Bunningss pushed to master in Bunningss/portfolio_](https://github.com/Bunningss/portfolio_/compare/e5014b52bd...cd79e28dec)
+- [Bunningss pushed to master in Bunningss/portfolio_](https://github.com/Bunningss/portfolio_/compare/0bd502994e...e5014b52bd)
+- [Bunningss pushed to master in Bunningss/portfolio_](https://github.com/Bunningss/portfolio_/compare/f28c5cad6a...0bd502994e)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
