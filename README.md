@@ -46,11 +46,11 @@ A computer enthusiast and motivated individual with full-stack web development s
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
+- [Bunningss pushed to master in Bunningss/postme-app---ts](https://github.com/Bunningss/postme-app---ts/compare/0813d0ffa1...487ce998b7)
+- [Bunningss pushed to master in Bunningss/portfolio_](https://github.com/Bunningss/portfolio_/compare/22cc999f5b...fa46605965)
 - [Bunningss pushed to master in Bunningss/postme-app---ts](https://github.com/Bunningss/postme-app---ts/compare/764b6daa6a...0813d0ffa1)
 - [Bunningss pushed to master in Bunningss/postme-app---ts](https://github.com/Bunningss/postme-app---ts/compare/188d1224eb...764b6daa6a)
 - [Bunningss pushed to master in Bunningss/portfolio_](https://github.com/Bunningss/portfolio_/compare/b56d0a15dd...22cc999f5b)
-- [Bunningss pushed to master in Bunningss/portfolio_](https://github.com/Bunningss/portfolio_/compare/bca8d9aeaa...b56d0a15dd)
-- [Bunningss pushed to master in Bunningss/portfolio_](https://github.com/Bunningss/portfolio_/compare/de75b01f71...bca8d9aeaa)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
