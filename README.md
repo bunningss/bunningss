@@ -46,11 +46,11 @@ A computer enthusiast and motivated individual with full-stack web development s
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
-- [Bunningss pushed to master in Bunningss/languageSchool](https://github.com/Bunningss/languageSchool/compare/e28c828264...143be2c6f5)
-- [Bunningss pushed to master in Bunningss/languageSchool](https://github.com/Bunningss/languageSchool/compare/3f155ed93e...e28c828264)
-- [Bunningss pushed to master in Bunningss/languageSchool](https://github.com/Bunningss/languageSchool/compare/66d8bd2687...3f155ed93e)
-- [Bunningss pushed to master in Bunningss/postme-app---ts](https://github.com/Bunningss/postme-app---ts/compare/e28be4d768...795216c012)
-- [Bunningss pushed to master in Bunningss/postme-app---ts](https://github.com/Bunningss/postme-app---ts/compare/74a0c86d90...e28be4d768)
+- [Bunningss pushed to master in Bunningss/olympuseducation](https://github.com/Bunningss/olympuseducation/compare/68461789b0...80caf7fa39)
+- [Bunningss pushed to master in Bunningss/olympuseducation](https://github.com/Bunningss/languageSchool/compare/143be2c6f5...68461789b0)
+- [Bunningss pushed to master in Bunningss/olympuseducation](https://github.com/Bunningss/languageSchool/compare/e28c828264...143be2c6f5)
+- [Bunningss pushed to master in Bunningss/olympuseducation](https://github.com/Bunningss/languageSchool/compare/3f155ed93e...e28c828264)
+- [Bunningss pushed to master in Bunningss/olympuseducation](https://github.com/Bunningss/languageSchool/compare/66d8bd2687...3f155ed93e)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
