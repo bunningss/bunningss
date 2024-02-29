@@ -46,11 +46,11 @@ A computer enthusiast and motivated individual with full-stack web development s
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
+- [Bunningss pushed to master in Bunningss/olympuseducation](https://github.com/Bunningss/olympuseducation/compare/72fdb22b5e...0a97a209d0)
+- [Bunningss pushed to master in Bunningss/olympuseducation](https://github.com/Bunningss/olympuseducation/compare/1bc10bc706...72fdb22b5e)
+- [Bunningss pushed to master in Bunningss/olympuseducation](https://github.com/Bunningss/olympuseducation/compare/78f32d160e...1bc10bc706)
 - [Bunningss pushed to master in Bunningss/olympuseducation](https://github.com/Bunningss/olympuseducation/compare/eee533f46b...78f32d160e)
 - [Bunningss pushed to master in Bunningss/olympuseducation](https://github.com/Bunningss/olympuseducation/compare/ede96885b4...eee533f46b)
-- [Bunningss pushed to master in Bunningss/olympuseducation](https://github.com/Bunningss/olympuseducation/compare/d5bcc0fbdd...ede96885b4)
-- [Bunningss pushed to master in Bunningss/olympuseducation](https://github.com/Bunningss/olympuseducation/compare/4a192c26ce...d5bcc0fbdd)
-- [Bunningss pushed to master in Bunningss/olympuseducation](https://github.com/Bunningss/olympuseducation/compare/a84bf031fc...4a192c26ce)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
