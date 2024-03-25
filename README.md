@@ -46,11 +46,11 @@ A computer enthusiast and motivated individual with full-stack web development s
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
+- [Bunningss created a branch master in Bunningss/logoidea-us](https://github.com/Bunningss/logoidea-us/compare/master)
+- [Bunningss created a repository Bunningss/logoidea-us](https://github.com/Bunningss/logoidea-us//)
 - [Bunningss pushed to master in Bunningss/olympuseducation](https://github.com/Bunningss/olympuseducation/compare/2099599de9...3c58b2b93c)
 - [Bunningss pushed to master in Bunningss/olympuseducation](https://github.com/Bunningss/olympuseducation/compare/6b3f0cb696...2099599de9)
 - [Bunningss pushed to master in Bunningss/portfolio_](https://github.com/Bunningss/portfolio_/compare/3d5f231c05...e4ced1fa5c)
-- [Bunningss pushed to master in Bunningss/portfolio_](https://github.com/Bunningss/portfolio_/compare/e2899eb45f...3d5f231c05)
-- [Bunningss pushed to master in Bunningss/portfolio_](https://github.com/Bunningss/portfolio_/compare/3bc4a82ab0...e2899eb45f)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
