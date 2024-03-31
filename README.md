@@ -25,7 +25,7 @@ A computer enthusiast and motivated individual with full-stack web development s
 <summary><strong>🏫 My Educational Information</strong></summary>
 <br>
 <strong>BRAC University</strong>
-<p>Bachelor's Degree (2018 - 2020)</p>
+<p>Bachelor's Degree (2018 - 2021)</p>
 <br>
 <strong>Bir-Sreshtho Munsi Abdur Rouf Public College</strong>
 <p>College (2015 - 2017)</p>
