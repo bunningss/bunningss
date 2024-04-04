@@ -46,11 +46,11 @@ A computer enthusiast and motivated individual with full-stack web development s
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
+- [Bunningss pushed to master in Bunningss/elles](https://github.com/Bunningss/elles/compare/5463f3133a...f9455871f0)
+- [Bunningss pushed to master in Bunningss/elles](https://github.com/Bunningss/elles/compare/eb7a936dd2...5463f3133a)
+- [Bunningss pushed to master in Bunningss/elles](https://github.com/Bunningss/elles/compare/aa8b5b273a...eb7a936dd2)
 - [Bunningss pushed to master in Bunningss/elles](https://github.com/Bunningss/elles/compare/15aee0a7c9...aa8b5b273a)
 - [Bunningss pushed to master in Bunningss/elles](https://github.com/Bunningss/elles/compare/80aa543772...15aee0a7c9)
-- [Bunningss pushed to master in Bunningss/elles](https://github.com/Bunningss/elles/compare/c3d0c43e2d...80aa543772)
-- [Bunningss pushed to master in Bunningss/bunningss](https://github.com/Bunningss/bunningss/compare/6a1f4820da...c54082f796)
-- [Bunningss created a branch master in Bunningss/elles](https://github.com/Bunningss/elles/compare/master)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
