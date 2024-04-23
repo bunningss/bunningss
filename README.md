@@ -46,11 +46,11 @@ A computer enthusiast and motivated individual with full-stack web development s
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
+- [Bunningss pushed to flappy_bird in Bunningss/canvas](https://github.com/Bunningss/canvas/compare/e817ec9240...cefc5537e5)
+- [Bunningss pushed to flappy_bird in Bunningss/canvas](https://github.com/Bunningss/canvas/compare/0000000000...e817ec9240)
+- [Bunningss created a branch flappy_bird in Bunningss/canvas](https://github.com/Bunningss/canvas/compare/flappy_bird)
+- [Bunningss created a repository Bunningss/canvas](https://github.com/Bunningss/canvas//)
 - [Bunningss pushed to master in Bunningss/elles](https://github.com/Bunningss/elles/compare/5463f3133a...f9455871f0)
-- [Bunningss pushed to master in Bunningss/elles](https://github.com/Bunningss/elles/compare/eb7a936dd2...5463f3133a)
-- [Bunningss pushed to master in Bunningss/elles](https://github.com/Bunningss/elles/compare/aa8b5b273a...eb7a936dd2)
-- [Bunningss pushed to master in Bunningss/elles](https://github.com/Bunningss/elles/compare/15aee0a7c9...aa8b5b273a)
-- [Bunningss pushed to master in Bunningss/elles](https://github.com/Bunningss/elles/compare/80aa543772...15aee0a7c9)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
