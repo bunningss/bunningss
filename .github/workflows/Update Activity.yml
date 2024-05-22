@@ -13,7 +13,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "ACTIVITY-LIST"
-          feed_list: "https://github.com/bunningss.atom"
+          feed_list: "https://github.com/glimmrz.atom"
           readme_path: "README.md"
           commit_message: "updated recent activity"
           committer_username: "auto update using github actions"
