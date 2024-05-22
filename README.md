@@ -46,11 +46,11 @@ A computer enthusiast and motivated individual with full-stack web development s
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
-- [Bunningss pushed to flappy_bird in Bunningss/canvas](https://github.com/Bunningss/canvas/compare/e817ec9240...cefc5537e5)
-- [Bunningss pushed to flappy_bird in Bunningss/canvas](https://github.com/Bunningss/canvas/compare/0000000000...e817ec9240)
-- [Bunningss created a branch flappy_bird in Bunningss/canvas](https://github.com/Bunningss/canvas/compare/flappy_bird)
-- [Bunningss created a repository Bunningss/canvas](https://github.com/Bunningss/canvas//)
-- [Bunningss pushed to master in Bunningss/elles](https://github.com/Bunningss/elles/compare/5463f3133a...f9455871f0)
+- [glimmrz pushed to master in glimmrz/aquamarine](https://github.com/glimmrz/aquamarine/compare/bda9d1b962...169a77789c)
+- [glimmrz pushed to master in glimmrz/aquamarine](https://github.com/glimmrz/aquamarine/compare/5d84c55317...bda9d1b962)
+- [glimmrz pushed to master in glimmrz/aquamarine](https://github.com/glimmrz/aquamarine/compare/71b4cac920...5d84c55317)
+- [glimmrz pushed to master in glimmrz/aquamarine](https://github.com/glimmrz/aquamarine/compare/e82f62ba6f...71b4cac920)
+- [glimmrz created a branch master in glimmrz/aquamarine](https://github.com/glimmrz/aquamarine/compare/master)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
