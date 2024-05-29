@@ -18,12 +18,11 @@ Junior web developer and computer enthusiast.
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
-
-- [glimmrz pushed to master in glimmrz/bunningss](https://github.com/glimmrz/bunningss/compare/c71c97f32a...19d2faedd3)
+- [glimmrz pushed to master in glimmrz/glimmrz](https://github.com/glimmrz/glimmrz/compare/01cf331faa...0fc60d8c6f)
+- [glimmrz forked glimmrz/video-conferencing from adrianhajdin/zoom-clone](https://github.com/glimmrz/video-conferencing)
+- [glimmrz pushed to master in glimmrz/glimmrz](https://github.com/glimmrz/bunningss/compare/c71c97f32a...19d2faedd3)
 - [glimmrz pushed to main in glimmrz/bstore](https://github.com/glimmrz/bstore/compare/0000000000...8cecbbe17b)
 - [glimmrz created a branch main in glimmrz/bstore](https://github.com/glimmrz/bstore/compare/main)
-- [glimmrz created a repository glimmrz/bstore](https://github.com/glimmrz/bstore//)
-- [glimmrz pushed to master in glimmrz/borobasket](https://github.com/glimmrz/borobasket/compare/7ca82ef22a...d029115566)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
