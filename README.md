@@ -18,11 +18,11 @@ Junior web developer and computer enthusiast.
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
-- [glimmrz pushed to master in glimmrz/glimmrz](https://github.com/glimmrz/glimmrz/compare/01cf331faa...0fc60d8c6f)
-- [glimmrz forked glimmrz/video-conferencing from adrianhajdin/zoom-clone](https://github.com/glimmrz/video-conferencing)
-- [glimmrz pushed to master in glimmrz/glimmrz](https://github.com/glimmrz/bunningss/compare/c71c97f32a...19d2faedd3)
-- [glimmrz pushed to main in glimmrz/bstore](https://github.com/glimmrz/bstore/compare/0000000000...8cecbbe17b)
-- [glimmrz created a branch main in glimmrz/bstore](https://github.com/glimmrz/bstore/compare/main)
+- [glimmrz pushed to master in glimmrz/nextjs-helper-components](https://github.com/glimmrz/nextjs-helper-components/compare/e334e98b00...eb907662a3)
+- [glimmrz pushed to master in glimmrz/nextjs-helper-components](https://github.com/glimmrz/nextjs-helper-components/compare/3ce35193ab...e334e98b00)
+- [glimmrz pushed to master in glimmrz/nextjs-helper-components](https://github.com/glimmrz/nextjs-helper-components/compare/072cb60e84...3ce35193ab)
+- [glimmrz created a branch master in glimmrz/nextjs-helper-components](https://github.com/glimmrz/nextjs-helper-components/compare/master)
+- [glimmrz created a repository glimmrz/nextjs-helper-components](https://github.com/glimmrz/nextjs-helper-components//)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
