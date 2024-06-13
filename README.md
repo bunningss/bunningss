@@ -18,11 +18,11 @@ Junior web developer and computer enthusiast.
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
+- [glimmrz pushed to master in glimmrz/nextjs-helper-components](https://github.com/glimmrz/nextjs-helper-components/compare/eb907662a3...e60a88c9b4)
 - [glimmrz pushed to master in glimmrz/nextjs-helper-components](https://github.com/glimmrz/nextjs-helper-components/compare/e334e98b00...eb907662a3)
 - [glimmrz pushed to master in glimmrz/nextjs-helper-components](https://github.com/glimmrz/nextjs-helper-components/compare/3ce35193ab...e334e98b00)
 - [glimmrz pushed to master in glimmrz/nextjs-helper-components](https://github.com/glimmrz/nextjs-helper-components/compare/072cb60e84...3ce35193ab)
 - [glimmrz created a branch master in glimmrz/nextjs-helper-components](https://github.com/glimmrz/nextjs-helper-components/compare/master)
-- [glimmrz created a repository glimmrz/nextjs-helper-components](https://github.com/glimmrz/nextjs-helper-components//)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
