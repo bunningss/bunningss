@@ -18,11 +18,11 @@ Junior web developer and computer enthusiast.
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
-- [glimmrz pushed to master in glimmrz/nextjs-helper-components](https://github.com/glimmrz/nextjs-helper-components/compare/eb907662a3...e60a88c9b4)
-- [glimmrz pushed to master in glimmrz/nextjs-helper-components](https://github.com/glimmrz/nextjs-helper-components/compare/e334e98b00...eb907662a3)
-- [glimmrz pushed to master in glimmrz/nextjs-helper-components](https://github.com/glimmrz/nextjs-helper-components/compare/3ce35193ab...e334e98b00)
-- [glimmrz pushed to master in glimmrz/nextjs-helper-components](https://github.com/glimmrz/nextjs-helper-components/compare/072cb60e84...3ce35193ab)
-- [glimmrz created a branch master in glimmrz/nextjs-helper-components](https://github.com/glimmrz/nextjs-helper-components/compare/master)
+- [glimmrz pushed to master in glimmrz/client-portal](https://github.com/glimmrz/client-portal/compare/9781b2fe28...e709a095b2)
+- [glimmrz pushed to master in glimmrz/client-portal](https://github.com/glimmrz/client-portal/compare/39db6023b7...9781b2fe28)
+- [glimmrz pushed to master in glimmrz/client-portal](https://github.com/glimmrz/client-portal/compare/9f9b0750ce...39db6023b7)
+- [glimmrz pushed to master in glimmrz/client-portal](https://github.com/glimmrz/client-portal/compare/ec5595eec2...9f9b0750ce)
+- [glimmrz pushed to master in glimmrz/client-portal](https://github.com/glimmrz/client-portal/compare/4789633a22...ec5595eec2)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
