@@ -18,11 +18,11 @@ Junior web developer and computer enthusiast.
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
-- [glimmrz pushed to master in glimmrz/client-portal](https://github.com/glimmrz/client-portal/compare/975723fc1b...0277a63c83)
-- [glimmrz pushed to master in glimmrz/client-portal](https://github.com/glimmrz/client-portal/compare/a9ff2eef83...975723fc1b)
-- [glimmrz pushed to master in glimmrz/client-portal](https://github.com/glimmrz/client-portal/compare/9d692c8c76...a9ff2eef83)
-- [glimmrz pushed to master in glimmrz/client-portal](https://github.com/glimmrz/client-portal/compare/4927d37097...9d692c8c76)
-- [glimmrz pushed to master in glimmrz/client-portal](https://github.com/glimmrz/client-portal/compare/d1818efccc...4927d37097)
+- [glimmrz pushed to master in glimmrz/client-portal](https://github.com/glimmrz/client-portal/compare/6eda69d708...7b9ac633f7)
+- [glimmrz pushed to master in glimmrz/client-portal](https://github.com/glimmrz/client-portal/compare/9bef7a78e7...6eda69d708)
+- [glimmrz pushed to master in glimmrz/client-portal](https://github.com/glimmrz/client-portal/compare/e81e0cbbf3...9bef7a78e7)
+- [glimmrz pushed to master in glimmrz/client-portal](https://github.com/glimmrz/client-portal/compare/2b80863678...e81e0cbbf3)
+- [glimmrz pushed to master in glimmrz/client-portal](https://github.com/glimmrz/client-portal/compare/8526f7fbb8...2b80863678)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
