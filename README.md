@@ -18,11 +18,11 @@ Junior web developer and computer enthusiast.
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
+- [glimmrz pushed to master in glimmrz/borobasket](https://github.com/glimmrz/borobasket/compare/d029115566...2a9236512a)
 - [glimmrz forked glimmrz/onlyfans from burakorkmez/onlyfans](https://github.com/glimmrz/onlyfans)
 - [glimmrz pushed to master in glimmrz/client-portal](https://github.com/glimmrz/client-portal/compare/d1818efccc...4927d37097)
 - [glimmrz created a branch master in glimmrz/client-portal-api](https://github.com/glimmrz/client-portal-api/compare/master)
 - [glimmrz created a repository glimmrz/client-portal-api](https://github.com/glimmrz/client-portal-api//)
-- [glimmrz pushed to master in glimmrz/nextjs-helper-components](https://github.com/glimmrz/nextjs-helper-components/compare/eb907662a3...e60a88c9b4)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
