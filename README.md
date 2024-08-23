@@ -18,11 +18,11 @@ Junior web developer and computer enthusiast.
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
+- [glimmrz pushed to master in glimmrz/borobasket](https://github.com/glimmrz/borobasket/compare/c8e23c91bd...c234a832e8)
+- [glimmrz pushed to master in glimmrz/borobasket](https://github.com/glimmrz/borobasket/compare/58b0bafb1e...c8e23c91bd)
+- [glimmrz pushed to master in glimmrz/borobasket](https://github.com/glimmrz/borobasket/compare/2a9236512a...58b0bafb1e)
 - [glimmrz pushed to master in glimmrz/borobasket](https://github.com/glimmrz/borobasket/compare/d029115566...2a9236512a)
 - [glimmrz forked glimmrz/onlyfans from burakorkmez/onlyfans](https://github.com/glimmrz/onlyfans)
-- [glimmrz pushed to master in glimmrz/client-portal](https://github.com/glimmrz/client-portal/compare/d1818efccc...4927d37097)
-- [glimmrz created a branch master in glimmrz/client-portal-api](https://github.com/glimmrz/client-portal-api/compare/master)
-- [glimmrz created a repository glimmrz/client-portal-api](https://github.com/glimmrz/client-portal-api//)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
