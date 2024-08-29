@@ -18,11 +18,11 @@ Junior web developer and computer enthusiast.
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
-- [glimmrz pushed to master in glimmrz/borobasket](https://github.com/glimmrz/borobasket/compare/ea43066059...f37351f34b)
-- [glimmrz pushed to master in glimmrz/borobasket](https://github.com/glimmrz/borobasket/compare/d011d831ec...ea43066059)
-- [glimmrz pushed to master in glimmrz/borobasket](https://github.com/glimmrz/borobasket/compare/3651e4956f...d011d831ec)
-- [glimmrz pushed to master in glimmrz/borobasket](https://github.com/glimmrz/borobasket/compare/5b1f96256b...3651e4956f)
-- [glimmrz pushed to master in glimmrz/borobasket](https://github.com/glimmrz/borobasket/compare/8fbb68fd1c...5b1f96256b)
+- [glimmrz opened an issue in ldoughty05/PersonalWebsite](https://github.com/ldoughty05/PersonalWebsite/issues/7)
+- [glimmrz forked glimmrz/map-coordinates from WilliamDavidson-02/map-coordinates](https://github.com/glimmrz/map-coordinates)
+- [glimmrz forked glimmrz/Projekt1 from HunterAlpha7/Projekt1](https://github.com/glimmrz/Projekt1)
+- [glimmrz forked glimmrz/onlyfans from burakorkmez/onlyfans](https://github.com/glimmrz/onlyfans)
+- [glimmrz pushed to master in glimmrz/client-portal](https://github.com/glimmrz/client-portal/compare/d1818efccc...4927d37097)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
