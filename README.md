@@ -18,11 +18,11 @@ Junior web developer and computer enthusiast.
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
-- [glimmrz opened an issue in ldoughty05/PersonalWebsite](https://github.com/ldoughty05/PersonalWebsite/issues/7)
-- [glimmrz forked glimmrz/map-coordinates from WilliamDavidson-02/map-coordinates](https://github.com/glimmrz/map-coordinates)
-- [glimmrz forked glimmrz/Projekt1 from HunterAlpha7/Projekt1](https://github.com/glimmrz/Projekt1)
-- [glimmrz forked glimmrz/onlyfans from burakorkmez/onlyfans](https://github.com/glimmrz/onlyfans)
-- [glimmrz pushed to master in glimmrz/client-portal](https://github.com/glimmrz/client-portal/compare/d1818efccc...4927d37097)
+- [glimmrz created a branch master in glimmrz/ibrahim_bhai](https://github.com/glimmrz/ibrahim_bhai/compare/master)
+- [glimmrz created a repository glimmrz/ibrahim_bhai](https://github.com/glimmrz/ibrahim_bhai//)
+- [glimmrz pushed to master in glimmrz/ibrahim_bhai](https://github.com/glimmrz/ibrahim_bhai/compare/485d8b3dae...2ab148fb99)
+- [glimmrz created a branch master in glimmrz/ibrahim_bhai](https://github.com/glimmrz/ibrahim_bhai/compare/master)
+- [glimmrz created a repository glimmrz/ibrahim_bhai](https://github.com/glimmrz/ibrahim_bhai//)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
