@@ -18,11 +18,11 @@ Junior web developer and computer enthusiast.
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
-- [glimmrz made glimmrz/dgserver public](https://github.com/glimmrz/dgserver)
-- [glimmrz pushed to master in glimmrz/dgclient](https://github.com/glimmrz/dgclient/compare/e051f56bdd...638b5f8456)
-- [glimmrz made glimmrz/dgclient public](https://github.com/glimmrz/dgclient)
-- [glimmrz pushed to master in glimmrz/dgclient](https://github.com/glimmrz/dgclient/compare/30740e978e...e051f56bdd)
-- [glimmrz pushed to master in glimmrz/ibrahim_bhai](https://github.com/glimmrz/ibrahim_bhai/compare/485d8b3dae...2ab148fb99)
+- [glimmrz pushed to master in glimmrz/borobasket](https://github.com/glimmrz/borobasket/compare/c3f1b9e0dc...2f3606ebb5)
+- [glimmrz pushed to master in glimmrz/borobasket](https://github.com/glimmrz/borobasket/compare/ff67cf2bf2...c3f1b9e0dc)
+- [glimmrz pushed to master in glimmrz/borobasket](https://github.com/glimmrz/borobasket/compare/fd1e7799eb...ff67cf2bf2)
+- [glimmrz pushed to master in glimmrz/borobasket](https://github.com/glimmrz/borobasket/compare/3d22a0db8f...fd1e7799eb)
+- [glimmrz pushed to master in glimmrz/borobasket](https://github.com/glimmrz/borobasket/compare/7c7c208415...3d22a0db8f)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
