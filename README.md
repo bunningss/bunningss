@@ -18,11 +18,11 @@ Junior web developer and computer enthusiast.
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
-- [glimmrz pushed to master in glimmrz/borobasket](https://github.com/glimmrz/borobasket/compare/c3f1b9e0dc...2f3606ebb5)
-- [glimmrz pushed to master in glimmrz/borobasket](https://github.com/glimmrz/borobasket/compare/ff67cf2bf2...c3f1b9e0dc)
-- [glimmrz pushed to master in glimmrz/borobasket](https://github.com/glimmrz/borobasket/compare/fd1e7799eb...ff67cf2bf2)
-- [glimmrz pushed to master in glimmrz/borobasket](https://github.com/glimmrz/borobasket/compare/3d22a0db8f...fd1e7799eb)
-- [glimmrz pushed to master in glimmrz/borobasket](https://github.com/glimmrz/borobasket/compare/7c7c208415...3d22a0db8f)
+- [glimmrz pushed to master in glimmrz/borobasket](https://github.com/glimmrz/borobasket/compare/6bd7e27573...76f9a013b8)
+- [glimmrz pushed to master in glimmrz/borobasket](https://github.com/glimmrz/borobasket/compare/04f27afd9c...6bd7e27573)
+- [glimmrz pushed to master in glimmrz/borobasket](https://github.com/glimmrz/borobasket/compare/27c91c283b...04f27afd9c)
+- [glimmrz pushed to master in glimmrz/borobasket](https://github.com/glimmrz/borobasket/compare/bfb4f9aa2b...27c91c283b)
+- [glimmrz pushed to master in glimmrz/dgclient](https://github.com/glimmrz/dgclient/compare/4a3f65c858...f96fee2791)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
