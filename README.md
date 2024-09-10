@@ -18,11 +18,11 @@ Junior web developer and computer enthusiast.
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
-- [glimmrz created a branch master in glimmrz/dgclient](https://github.com/glimmrz/dgclient/compare/master)
-- [glimmrz created a repository glimmrz/dgclient](https://github.com/glimmrz/dgclient//)
-- [glimmrz pushed to master in glimmrz/dgserver](https://github.com/glimmrz/dgserver/compare/3da8e4ace1...d03a06b638)
+- [glimmrz created a branch master in glimmrz/algomart_](https://github.com/glimmrz/algomart_/compare/master)
+- [glimmrz created a repository glimmrz/algomart_](https://github.com/glimmrz/algomart_//)
 - [glimmrz pushed to master in glimmrz/dgclient](https://github.com/glimmrz/dgclient/compare/f96fee2791...e686f602f8)
-- [glimmrz pushed to master in glimmrz/borobasket](https://github.com/glimmrz/borobasket/compare/71ca642d11...67b5c9629f)
+- [glimmrz pushed to master in glimmrz/dgclient](https://github.com/glimmrz/dgclient/compare/4a3f65c858...f96fee2791)
+- [glimmrz pushed to master in glimmrz/dgclient](https://github.com/glimmrz/dgclient/compare/5298d52439...4a3f65c858)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
