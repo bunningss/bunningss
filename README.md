@@ -18,11 +18,11 @@ Junior web developer and computer enthusiast.
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
-- [glimmrz created a repository glimmrz/new3](https://github.com/glimmrz/new3//)
-- [glimmrz created a branch master in glimmrz/algomart_](https://github.com/glimmrz/algomart_/compare/master)
-- [glimmrz created a repository glimmrz/algomart_](https://github.com/glimmrz/algomart_//)
-- [glimmrz pushed to master in glimmrz/dgclient](https://github.com/glimmrz/dgclient/compare/f96fee2791...e686f602f8)
-- [glimmrz pushed to master in glimmrz/dgclient](https://github.com/glimmrz/dgclient/compare/4a3f65c858...f96fee2791)
+- [glimmrz pushed to main in glimmrz/profee__clone](https://github.com/glimmrz/profee__clone/compare/f4e98530bf...baa07d0e63)
+- [glimmrz pushed to main in glimmrz/profee__clone](https://github.com/glimmrz/profee__clone/compare/a874e10a6f...f4e98530bf)
+- [glimmrz pushed to main in glimmrz/profee__clone](https://github.com/glimmrz/profee__clone/compare/32092fdfc1...a874e10a6f)
+- [glimmrz pushed to main in glimmrz/profee__clone](https://github.com/glimmrz/profee__clone/compare/4935d6ed60...32092fdfc1)
+- [glimmrz pushed to main in glimmrz/profee__clone](https://github.com/glimmrz/profee__clone/compare/0a7d02787a...4935d6ed60)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
