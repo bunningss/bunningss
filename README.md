@@ -1,6 +1,6 @@
 ## Heya! 👋
 
-Junior web developer and computer enthusiast.
+Web developer.
 
 ## 📊 Statistics
 
