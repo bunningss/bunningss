@@ -18,11 +18,11 @@ Web developer.
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
-- [glimmrz pushed to master in glimmrz/ilham](https://github.com/glimmrz/ilham/compare/8f070a41b4...5a45f50d7a)
-- [glimmrz created a branch master in glimmrz/ilham](https://github.com/glimmrz/ilham/compare/master)
-- [glimmrz created a repository glimmrz/ilham](https://github.com/glimmrz/ilham//)
-- [glimmrz created a branch master in glimmrz/ilham](https://github.com/glimmrz/ilham/compare/master)
-- [glimmrz created a repository glimmrz/ilham](https://github.com/glimmrz/ilham//)
+- [glimmrz pushed to master in glimmrz/ilham](https://github.com/glimmrz/ilham/compare/1b8228662a...7c05b2a986)
+- [glimmrz pushed to master in glimmrz/ilham](https://github.com/glimmrz/ilham/compare/9cdabffb3b...1b8228662a)
+- [glimmrz pushed to master in glimmrz/ilham](https://github.com/glimmrz/ilham/compare/55f03cd8db...9cdabffb3b)
+- [glimmrz pushed to master in glimmrz/ilham](https://github.com/glimmrz/ilham/compare/f1db51ad39...55f03cd8db)
+- [glimmrz pushed to master in glimmrz/ilham](https://github.com/glimmrz/ilham/compare/7636a7f004...f1db51ad39)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
