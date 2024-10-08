@@ -18,11 +18,11 @@ Web developer.
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
-- [glimmrz pushed to gb in glimmrz/ueni_clone](https://github.com/glimmrz/ueni_clone/compare/45ed2d723e...d9f37164c1)
-- [glimmrz pushed to gb in glimmrz/ueni_clone](https://github.com/glimmrz/ueni_clone/compare/881518a0c9...45ed2d723e)
-- [glimmrz pushed to gb in glimmrz/ueni_clone](https://github.com/glimmrz/ueni_clone/compare/9fc1a5b335...881518a0c9)
-- [glimmrz pushed to gb in glimmrz/ueni_clone](https://github.com/glimmrz/ueni_clone/compare/10083f1c63...9fc1a5b335)
-- [glimmrz pushed to gb in glimmrz/ueni_clone](https://github.com/glimmrz/ueni_clone/compare/9aa10df466...10083f1c63)
+- [glimmrz pushed to gb in glimmrz/ueni_clone](https://github.com/glimmrz/ueni_clone/compare/73a7cfed02...7bf61347dc)
+- [glimmrz pushed to gb in glimmrz/ueni_clone](https://github.com/glimmrz/ueni_clone/compare/4650c346ac...73a7cfed02)
+- [glimmrz pushed to gb in glimmrz/ueni_clone](https://github.com/glimmrz/ueni_clone/compare/0a20c86047...4650c346ac)
+- [glimmrz pushed to gb in glimmrz/ueni_clone](https://github.com/glimmrz/ueni_clone/compare/e1355f882a...0a20c86047)
+- [glimmrz pushed to gb in glimmrz/ueni_clone](https://github.com/glimmrz/ueni_clone/compare/e99a96e4b5...e1355f882a)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
