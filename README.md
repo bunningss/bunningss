@@ -18,11 +18,11 @@ Web developer.
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
-- [glimmrz pushed to master in glimmrz/ilham](https://github.com/glimmrz/ilham/compare/169694371c...c5a55ba5a9)
-- [glimmrz pushed to master in glimmrz/ilham](https://github.com/glimmrz/ilham/compare/805f641811...169694371c)
-- [glimmrz pushed to master in glimmrz/ilham](https://github.com/glimmrz/ilham/compare/9e2c4922dc...805f641811)
-- [glimmrz pushed to master in glimmrz/ilham](https://github.com/glimmrz/ilham/compare/ea41496e2f...9e2c4922dc)
-- [glimmrz pushed to gb in glimmrz/ueni_clone](https://github.com/glimmrz/ueni_clone/compare/6167ba96c0...52beeae2d3)
+- [glimmrz pushed to master in glimmrz/ilham](https://github.com/glimmrz/ilham/compare/a59ad35b26...9208a8eb7c)
+- [glimmrz pushed to master in glimmrz/ilham](https://github.com/glimmrz/ilham/compare/f3b81dd579...a59ad35b26)
+- [glimmrz pushed to master in glimmrz/ilham](https://github.com/glimmrz/ilham/compare/176252ec1c...f3b81dd579)
+- [glimmrz pushed to master in glimmrz/ilham](https://github.com/glimmrz/ilham/compare/2c05c47ae5...176252ec1c)
+- [glimmrz pushed to master in glimmrz/ilham](https://github.com/glimmrz/ilham/compare/0f156572e8...2c05c47ae5)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
