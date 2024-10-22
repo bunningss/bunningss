@@ -18,11 +18,11 @@ Web developer.
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
-- [glimmrz pushed to master in glimmrz/ilham](https://github.com/glimmrz/ilham/compare/3216a965f8...f274e89b2e)
-- [glimmrz pushed to master in glimmrz/ilham](https://github.com/glimmrz/ilham/compare/8c1a54e5e9...3216a965f8)
-- [glimmrz pushed to master in glimmrz/ilham](https://github.com/glimmrz/ilham/compare/fd672f7a5d...8c1a54e5e9)
-- [glimmrz pushed to master in glimmrz/ilham](https://github.com/glimmrz/ilham/compare/3c13177ce4...fd672f7a5d)
-- [glimmrz pushed to master in glimmrz/ilham](https://github.com/glimmrz/ilham/compare/3952534179...3c13177ce4)
+- [glimmrz pushed to zeris in glimmrz/zeris](https://github.com/glimmrz/zeris/compare/364ecd9117...0c4051bf82)
+- [glimmrz pushed to zeris in glimmrz/zeris](https://github.com/glimmrz/ueni_clone/compare/eb2fb68799...364ecd9117)
+- [glimmrz pushed to zeris in glimmrz/zeris](https://github.com/glimmrz/ueni_clone/compare/75e5f63e84...eb2fb68799)
+- [glimmrz pushed to zeris in glimmrz/zeris](https://github.com/glimmrz/ueni_clone/compare/301a658d9e...75e5f63e84)
+- [glimmrz created a branch zeris in glimmrz/zeris](https://github.com/glimmrz/ueni_clone/compare/zeris)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
