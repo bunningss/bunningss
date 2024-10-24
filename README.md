@@ -18,11 +18,11 @@ Web developer.
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
+- [glimmrz pushed to main in glimmrz/inventory-manager](https://github.com/glimmrz/inventory-manager/compare/6aca5122c9...0d34ac6687)
+- [glimmrz pushed to zeris in glimmrz/zeris](https://github.com/glimmrz/zeris/compare/f97666ecf0...6aa395f192)
+- [glimmrz pushed to zeris in glimmrz/zeris](https://github.com/glimmrz/zeris/compare/0c4051bf82...f97666ecf0)
 - [glimmrz created a branch main in glimmrz/inventory-manager](https://github.com/glimmrz/inventory-manager/compare/main)
 - [glimmrz created a repository glimmrz/inventory-manager](https://github.com/glimmrz/inventory-manager//)
-- [glimmrz pushed to main in glimmrz/aqua-mail](https://github.com/glimmrz/aqua-mail/compare/1fcc45effb...14f19c756d)
-- [glimmrz pushed to zeris in glimmrz/zeris](https://github.com/glimmrz/zeris/compare/364ecd9117...0c4051bf82)
-- [glimmrz pushed to zeris in glimmrz/zeris](https://github.com/glimmrz/ueni_clone/compare/eb2fb68799...364ecd9117)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
