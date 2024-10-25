@@ -18,11 +18,11 @@ Web developer.
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
-- [glimmrz pushed to main in glimmrz/inventory-manager](https://github.com/glimmrz/inventory-manager/compare/6aca5122c9...0d34ac6687)
-- [glimmrz pushed to zeris in glimmrz/zeris](https://github.com/glimmrz/zeris/compare/f97666ecf0...6aa395f192)
-- [glimmrz pushed to zeris in glimmrz/zeris](https://github.com/glimmrz/zeris/compare/0c4051bf82...f97666ecf0)
-- [glimmrz created a branch main in glimmrz/inventory-manager](https://github.com/glimmrz/inventory-manager/compare/main)
-- [glimmrz created a repository glimmrz/inventory-manager](https://github.com/glimmrz/inventory-manager//)
+- [glimmrz pushed to main in glimmrz/inventory-manager](https://github.com/glimmrz/inventory-manager/compare/946e3d04ba...663b0ec359)
+- [glimmrz pushed to main in glimmrz/inventory-manager](https://github.com/glimmrz/inventory-manager/compare/f429e342c8...946e3d04ba)
+- [glimmrz pushed to main in glimmrz/inventory-manager](https://github.com/glimmrz/inventory-manager/compare/a08050f69b...f429e342c8)
+- [glimmrz pushed to main in glimmrz/inventory-manager](https://github.com/glimmrz/inventory-manager/compare/58950342f0...a08050f69b)
+- [glimmrz pushed to main in glimmrz/inventory-manager](https://github.com/glimmrz/inventory-manager/compare/96f8665975...58950342f0)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
