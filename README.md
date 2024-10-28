@@ -18,11 +18,11 @@ Web developer.
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
-- [glimmrz pushed to main in glimmrz/inventory-manager](https://github.com/glimmrz/inventory-manager/compare/54e93516a9...d83028c83e)
-- [glimmrz pushed to main in glimmrz/inventory-manager](https://github.com/glimmrz/inventory-manager/compare/3c48c162cb...54e93516a9)
-- [glimmrz pushed to main in glimmrz/inventory-manager](https://github.com/glimmrz/inventory-manager/compare/bf3fb3a1fa...3c48c162cb)
-- [glimmrz pushed to main in glimmrz/inventory-manager](https://github.com/glimmrz/inventory-manager/compare/663b0ec359...bf3fb3a1fa)
-- [glimmrz pushed to main in glimmrz/inventory-manager](https://github.com/glimmrz/inventory-manager/compare/946e3d04ba...663b0ec359)
+- [glimmrz pushed to zeris in glimmrz/zeris](https://github.com/glimmrz/zeris/compare/f97666ecf0...6aa395f192)
+- [glimmrz pushed to zeris in glimmrz/zeris](https://github.com/glimmrz/zeris/compare/0c4051bf82...f97666ecf0)
+- [glimmrz pushed to main in glimmrz/aqua-mail](https://github.com/glimmrz/aqua-mail/compare/1fcc45effb...14f19c756d)
+- [glimmrz pushed to zeris in glimmrz/zeris](https://github.com/glimmrz/zeris/compare/364ecd9117...0c4051bf82)
+- [glimmrz pushed to zeris in glimmrz/zeris](https://github.com/glimmrz/ueni_clone/compare/eb2fb68799...364ecd9117)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
