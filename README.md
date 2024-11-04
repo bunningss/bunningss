@@ -18,11 +18,11 @@ Web developer.
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
+- [glimmrz pushed to main in glimmrz/portfolio](https://github.com/glimmrz/portfolio/compare/9d7a1414ea...11d2203601)
+- [glimmrz pushed to main in glimmrz/portfolio](https://github.com/glimmrz/portfolio/compare/4abab91321...9d7a1414ea)
+- [glimmrz created a branch main in glimmrz/portfolio](https://github.com/glimmrz/portfolio/compare/main)
+- [glimmrz created a repository glimmrz/portfolio](https://github.com/glimmrz/portfolio//)
 - [glimmrz pushed to zeris in glimmrz/zeris](https://github.com/glimmrz/zeris/compare/f97666ecf0...6aa395f192)
-- [glimmrz pushed to zeris in glimmrz/zeris](https://github.com/glimmrz/zeris/compare/0c4051bf82...f97666ecf0)
-- [glimmrz pushed to main in glimmrz/aqua-mail](https://github.com/glimmrz/aqua-mail/compare/1fcc45effb...14f19c756d)
-- [glimmrz pushed to zeris in glimmrz/zeris](https://github.com/glimmrz/zeris/compare/364ecd9117...0c4051bf82)
-- [glimmrz pushed to zeris in glimmrz/zeris](https://github.com/glimmrz/ueni_clone/compare/eb2fb68799...364ecd9117)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
