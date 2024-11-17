@@ -18,11 +18,11 @@ Web developer.
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
+- [glimmrz made glimmrz/dgclient public](https://github.com/glimmrz/dgclient)
 - [glimmrz pushed to main in glimmrz/portfolio](https://github.com/glimmrz/portfolio/compare/593e7d50e0...6ec378d7a5)
 - [glimmrz pushed to main in glimmrz/portfolio](https://github.com/glimmrz/portfolio/compare/2882e18cdd...593e7d50e0)
 - [glimmrz pushed to main in glimmrz/portfolio](https://github.com/glimmrz/portfolio/compare/11d2203601...2882e18cdd)
 - [glimmrz pushed to main in glimmrz/portfolio](https://github.com/glimmrz/portfolio/compare/9d7a1414ea...11d2203601)
-- [glimmrz pushed to main in glimmrz/portfolio](https://github.com/glimmrz/portfolio/compare/4abab91321...9d7a1414ea)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
