@@ -1,7 +1,5 @@
 ## Heya! 👋
 
-Web developer.
-
 <details>
   <summary><strong>📈 Languages & Stats</strong></summary>
   <img src="https://github-readme-stats.vercel.app/api?username=glimmrz&show_icons=true&theme=dark&hide_border=true"
