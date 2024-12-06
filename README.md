@@ -12,11 +12,11 @@
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
-- [bunningss pushed to main in bunningss/portfolio](https://github.com/glimmrz/portfolio/compare/eaf00950f1...276ac3ef55)
-- [bunningss pushed to main in bunningss/portfolio](https://github.com/glimmrz/portfolio/compare/6ec378d7a5...eaf00950f1)
-- [bunningss made bunningss/zeris public](https://github.com/glimmrz/zeris)
-- [bunningss deleted branch gb at bunningss/zeris](https://github.com/)
-- [bunningss deleted branch master at bunningss/zeris](https://github.com/)
+- [bunningss pushed to main in bunningss/portfolio](https://github.com/bunningss/portfolio/compare/c5702742aa...43d59e494c)
+- [bunningss pushed to master in bunningss/ngo](https://github.com/bunningss/ngo/compare/55398596e7...0444ebae28)
+- [bunningss pushed to master in bunningss/ngo](https://github.com/bunningss/ngo/compare/937f3f0b60...55398596e7)
+- [bunningss made bunningss/ngo public](https://github.com/bunningss/ngo)
+- [bunningss made bunningss/inventory-manager public](https://github.com/bunningss/inventory-manager)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
