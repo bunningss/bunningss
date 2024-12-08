@@ -12,11 +12,11 @@
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
-- [bunningss pushed to master in bunningss/ngo](https://github.com/bunningss/ngo/compare/594da1b79b...f226fb7d9f)
-- [bunningss pushed to master in bunningss/ngo](https://github.com/bunningss/ngo/compare/0444ebae28...594da1b79b)
-- [bunningss pushed to main in bunningss/portfolio](https://github.com/bunningss/portfolio/compare/c5702742aa...43d59e494c)
-- [bunningss pushed to master in bunningss/ngo](https://github.com/bunningss/ngo/compare/55398596e7...0444ebae28)
-- [bunningss pushed to master in bunningss/ngo](https://github.com/bunningss/ngo/compare/937f3f0b60...55398596e7)
+- [bunningss pushed to master in bunningss/ngo](https://github.com/bunningss/ngo/compare/28be7f4b6f...89852eed00)
+- [bunningss pushed to master in bunningss/ngo](https://github.com/bunningss/ngo/compare/95acacba3b...28be7f4b6f)
+- [bunningss pushed to master in bunningss/ngo](https://github.com/bunningss/ngo/compare/9474a87dc9...95acacba3b)
+- [bunningss pushed to master in bunningss/ngo](https://github.com/bunningss/ngo/compare/b49552ed4c...9474a87dc9)
+- [bunningss pushed to master in bunningss/ngo](https://github.com/bunningss/ngo/compare/3014ede7bd...b49552ed4c)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
