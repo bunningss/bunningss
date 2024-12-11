@@ -12,11 +12,11 @@
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
-- [bunningss pushed to master in bunningss/ngo](https://github.com/bunningss/ngo/compare/34b1937528...31607f7c2e)
-- [bunningss pushed to master in bunningss/ngo](https://github.com/bunningss/ngo/compare/a6dce599f4...34b1937528)
-- [bunningss pushed to master in bunningss/ngo](https://github.com/bunningss/ngo/compare/4ad7de5d90...a6dce599f4)
-- [bunningss pushed to master in bunningss/ngo](https://github.com/bunningss/ngo/compare/f30e042ccd...4ad7de5d90)
-- [bunningss pushed to master in bunningss/ngo](https://github.com/bunningss/ngo/compare/4d4c18fc83...f30e042ccd)
+- [bunningss pushed to master in bunningss/microfinance](https://github.com/bunningss/microfinance/compare/34d93556b6...81c00cdd20)
+- [bunningss pushed to master in bunningss/microfinance](https://github.com/bunningss/microfinance/compare/864a7f450f...217a62ad33)
+- [bunningss pushed to master in bunningss/microfinance](https://github.com/bunningss/microfinance/compare/217a62ad33...34d93556b6)
+- [bunningss pushed to master in bunningss/microfinance](https://github.com/bunningss/microfinance/compare/47d01517d9...864a7f450f)
+- [bunningss pushed to master in bunningss/microfinance](https://github.com/bunningss/microfinance/compare/09cfa9c3fb...47d01517d9)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
