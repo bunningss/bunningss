@@ -12,11 +12,11 @@
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
-- [bunningss created a branch master in bunningss/block-lines](https://github.com/bunningss/block-lines/compare/master)
-- [bunningss created a repository bunningss/block-lines](https://github.com/bunningss/block-lines//)
-- [bunningss created a branch master in bunningss/screen-partition](https://github.com/bunningss/screen-partition/compare/master)
-- [bunningss created a repository bunningss/screen-partition](https://github.com/bunningss/screen-partition//)
-- [bunningss pushed to master in bunningss/microfinance](https://github.com/bunningss/microfinance/compare/794a883969...df80b0fef1)
+- [bunningss pushed to master in bunningss/microfinance](https://github.com/bunningss/microfinance/compare/986a9e5768...6fccaf1357)
+- [bunningss pushed to master in bunningss/microfinance](https://github.com/bunningss/microfinance/compare/f697d82600...986a9e5768)
+- [bunningss created a branch master in bunningss/starter-code](https://github.com/bunningss/starter-code/compare/master)
+- [bunningss created a repository bunningss/starter-code](https://github.com/bunningss/starter-code//)
+- [bunningss pushed to master in bunningss/microfinance](https://github.com/bunningss/microfinance/compare/df80b0fef1...f697d82600)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
