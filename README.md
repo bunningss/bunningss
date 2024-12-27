@@ -12,11 +12,11 @@
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
+- [bunningss pushed to master in bunningss/pet-shop](https://github.com/bunningss/pet-shop/compare/2d4a3b3730...836e3e3768)
 - [bunningss pushed to master in bunningss/pet-shop](https://github.com/bunningss/pet-shop/compare/283956dae5...2d4a3b3730)
 - [bunningss pushed to main in bunningss/inventory-manager](https://github.com/bunningss/inventory-manager/compare/27fd018afc...353619cf59)
 - [bunningss pushed to master in bunningss/microfinance](https://github.com/bunningss/microfinance/compare/b5e2171ffd...adee0d701a)
 - [bunningss pushed to master in bunningss/microfinance](https://github.com/bunningss/microfinance/compare/be4fc56382...b5e2171ffd)
-- [bunningss pushed to main in bunningss/inventory-manager](https://github.com/bunningss/inventory-manager/compare/9e0900325d...27fd018afc)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
