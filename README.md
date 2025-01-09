@@ -12,11 +12,11 @@
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
-- [bunningss pushed to main in bunningss/inventory-manager](https://github.com/bunningss/inventory-manager/compare/b0f462dc06...724cdf0a5c)
-- [bunningss pushed to main in bunningss/inventory-manager](https://github.com/bunningss/inventory-manager/compare/f8ec4a58d0...b0f462dc06)
-- [bunningss pushed to main in bunningss/inventory-manager](https://github.com/bunningss/inventory-manager/compare/408cceadf6...f8ec4a58d0)
-- [bunningss pushed to main in bunningss/inventory-manager](https://github.com/bunningss/inventory-manager/compare/35e36fa987...408cceadf6)
-- [bunningss pushed to main in bunningss/inventory-manager](https://github.com/bunningss/inventory-manager/compare/4ecd2d7819...35e36fa987)
+- [bunningss created a repository bunningss/school-manager](https://github.com/bunningss/school-manager//)
+- [bunningss pushed to main in bunningss/inventory-manager](https://github.com/bunningss/inventory-manager/compare/7f6ec42695...feb1f2900a)
+- [bunningss pushed to main in bunningss/inventory-manager](https://github.com/bunningss/inventory-manager/compare/35beca7273...7f6ec42695)
+- [bunningss pushed to main in bunningss/inventory-manager](https://github.com/bunningss/inventory-manager/compare/673c8e56ba...35beca7273)
+- [bunningss pushed to main in bunningss/inventory-manager](https://github.com/bunningss/inventory-manager/compare/546ae87efd...673c8e56ba)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
