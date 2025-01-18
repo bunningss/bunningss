@@ -12,11 +12,11 @@
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
+- [bunningss pushed to master in bunningss/school-manager](https://github.com/bunningss/school-manager/compare/439add0fb9...f387a91c03)
+- [bunningss pushed to master in bunningss/school-manager](https://github.com/bunningss/school-manager/compare/c5c037cef6...439add0fb9)
 - [bunningss pushed to master in bunningss/school-manager](https://github.com/bunningss/school-manager/compare/618bb77403...c5c037cef6)
 - [bunningss pushed to master in bunningss/school-manager](https://github.com/bunningss/school-manager/compare/ad1761f2a5...618bb77403)
 - [bunningss pushed to master in bunningss/school-manager](https://github.com/bunningss/school-manager/compare/c4a0fd3458...ad1761f2a5)
-- [bunningss pushed to master in bunningss/school-manager](https://github.com/bunningss/school-manager/compare/17398f0d1d...c4a0fd3458)
-- [bunningss pushed to master in bunningss/school-manager](https://github.com/bunningss/school-manager/compare/4b786634c6...17398f0d1d)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
