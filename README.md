@@ -12,11 +12,11 @@
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
-- [bunningss pushed to master in bunningss/upp](https://github.com/bunningss/upp/compare/aa354dbd8f...0a789f3973)
-- [bunningss pushed to master in bunningss/upp](https://github.com/bunningss/upp/compare/724bf3807b...aa354dbd8f)
-- [bunningss created a branch master in bunningss/upp](https://github.com/bunningss/upp/compare/master)
-- [bunningss created a repository bunningss/upp](https://github.com/bunningss/upp//)
+- [bunningss created a branch master in bunningss/upload](https://github.com/bunningss/upload/compare/master)
+- [bunningss created a repository bunningss/upload](https://github.com/bunningss/upload//)
 - [bunningss made bunningss/multidrive public](https://github.com/bunningss/multidrive)
+- [bunningss forked bunningss/kahoot-clone from Kahoot-Clone/kahoot-clone](https://github.com/bunningss/kahoot-clone)
+- [bunningss pushed to master in bunningss/school-manager](https://github.com/bunningss/school-manager/compare/cc75941e72...1086994aae)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
