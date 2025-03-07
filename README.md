@@ -12,8 +12,8 @@
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
-- [bunningss pushed to master in bunningss/mds](https://github.com/bunningss/mds/compare/a8a30ef323...bdd7d7ff90)
-- [bunningss pushed to master in bunningss/mds](https://github.com/bunningss/mds/compare/1045e6aacc...a8a30ef323)
+- [bunningss made bunningss/mds public](https://github.com/bunningss/mds)
+- [bunningss pushed to master in bunningss/mds](https://github.com/bunningss/mds/compare/cfc6299900...9fef3fb532)
 - [bunningss pushed to main in bunningss/gonomot](https://github.com/bunningss/gonomot/compare/8ac69e13e3...2a0cb2ad4c)
 - [bunningss pushed to main in bunningss/gonomot](https://github.com/bunningss/gonomot/compare/8ace9877ba...8ac69e13e3)
 - [bunningss pushed to main in bunningss/gonomot](https://github.com/bunningss/gonomot/compare/071ef6efea...8ace9877ba)
