@@ -13,6 +13,7 @@
 
 <!-- ACTIVITY-LIST:START -->
 - [bunningss made bunningss/pulse__server public](https://github.com/bunningss/pulse__server)
+- [bunningss made bunningss/pulse__server public](https://github.com/bunningss/pulse__server)
 - [bunningss pushed to master in bunningss/pulse__server](https://github.com/bunningss/pulse__server/compare/e433d9f99d...2cca2ae291)
 - [bunningss forked bunningss/bKash-with-nextjs from kuhelahmed2024/bKash-with-nextjs](https://github.com/bunningss/bKash-with-nextjs)
 <!-- ACTIVITY-LIST:END -->
