@@ -12,7 +12,6 @@
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
-- [bunningss made bunningss/pulse__server public](https://github.com/bunningss/pulse__server)
 - [bunningss forked bunningss/bKash-with-nextjs from kuhelahmed2024/bKash-with-nextjs](https://github.com/bunningss/bKash-with-nextjs)
 <!-- ACTIVITY-LIST:END -->
 
