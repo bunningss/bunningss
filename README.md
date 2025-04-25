@@ -13,7 +13,6 @@
 
 <!-- ACTIVITY-LIST:START -->
 - [bunningss closed an issue in ldoughty05/PersonalWebsite](https://github.com/ldoughty05/PersonalWebsite/issues/7)
-- [bunningss made bunningss/mds public](https://github.com/bunningss/mds)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
