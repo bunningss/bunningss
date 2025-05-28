@@ -12,7 +12,7 @@
 <summary><strong> :zap: My Recent Activities </strong></summary>
 
 <!-- ACTIVITY-LIST:START -->
-- [bunningss closed an issue in ldoughty05/PersonalWebsite](https://github.com/ldoughty05/PersonalWebsite/issues/7)
+- [bunningss forked bunningss/agenticSeek from Fosowl/agenticSeek](https://github.com/bunningss/agenticSeek)
 <!-- ACTIVITY-LIST:END -->
 
 </details>
